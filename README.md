@@ -4,9 +4,9 @@ Android app for University of Limerick.
 
 Created by:
 
-Nicole Berty
-Michele Cavaliere
-Matt Lucey
+Nicole Berty,
+Michele Cavaliere,
+Matt Lucey,
 Sean Lynch
 
 <div>
